@@ -1,4 +1,4 @@
-Working "Hero" Application from [Angular2.0 tutorial](https://angular.io/docs/ts/latest/tutorial/)
+Working TODO Application with Angular JS2.0
 
 ```
 npm install --no-opt
