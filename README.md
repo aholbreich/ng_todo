@@ -1,9 +1,9 @@
 # Example ToDo Application with Angular 2.0
 ## Features
 
-[*] Uses servives and injection
-[ ] Well documented for learnign puprose 
-[ ] Can be used as proejct starter
+- [x] Uses servives and injection
+- [ ] Well documented for learnign puprose 
+- [ ] Can be used as proejct starter
 
 ```
 npm install --no-opt
