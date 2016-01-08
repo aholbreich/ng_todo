@@ -1,4 +1,9 @@
-Working TODO Application with Angular JS2.0
+# Example ToDo Application with Angular 2.0
+## Features
+
+[*] Uses servives and injection
+[ ] Well documented for learnign puprose 
+[ ] Can be used as proejct starter
 
 ```
 npm install --no-opt

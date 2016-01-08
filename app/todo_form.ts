@@ -10,7 +10,10 @@ import {Todo} from './todo';
     </form>`
 })
 export class TodoForm {
+  
+  
   @Output() newTask = new EventEmitter<Todo>();
+  
   task: string = '';
   addTodo() {
     if (this.task) {
